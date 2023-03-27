@@ -29,6 +29,13 @@ print(isinstance(age_c, int))  # true
 4 ** 2  # 16 (exponents: power of 2)
 5 // 2  # 2 (floor division, divides rounding down)
 
+# String replication operator
+# the multiplication operator when used on a string performs replication.
+
+print("Wyatt" * 3)  # WyattWyattWyatt
+print("Hello World! " * 8)
+# Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+
 age_d = 9
 age_d += 8  # age_d = age_d + 8
 print(age_d)  # 17
