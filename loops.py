@@ -53,3 +53,23 @@ for index, name in enumerate(names):
 # 2 Bart
 # 3 Lisa
 # 4 Maggie
+
+# Break and Continue
+# A review from earlier,, with the `break` statement we can stop the loop before it has looped through all the items
+# With the `continue` statement we can stop the current iteration of the loop, and continue with the next
+items = [1, 2, 3, 4]
+for item in items:
+    if item == 2:
+        continue
+    print(item)
+# 1
+# 3
+# 4
+
+players = ["Nico", "Jack", "Timo", "Jesper"]
+for player in players:
+    if player == "Timo":
+        break
+    print(player)
+# Nico
+# Jack
