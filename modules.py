@@ -7,6 +7,7 @@
 # Use `import` and the name of the python file, `cat.py` leaving off the extension. This imports the entire file.
 # Or you can use `from` `import`, to specify a specific function.
 
+import math  # using standard libs, see below
 import cat
 from lib import dog
 # or `from lib.dog import growl` to just access` a specific function
@@ -30,3 +31,7 @@ dog.growl()  # Grrrrrrr
 # requests to perform HTTP network requests
 # http to create HTTP servers
 # urllib to manage URLs
+
+# Importing the `math` library and using it
+
+print(math.sqrt(4))  # 2.0
