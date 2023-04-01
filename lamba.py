@@ -11,7 +11,8 @@
 # Multiple args
 lambda a, b: a * b
 
-# Cannot be called directly, use in a variable or within functions
+# Cannot be called directly, use in a variable or within functions. Very useful when used with other Python functionality like map(), filter(), reduce().
+
 # double = lambda num: num * 2
 # print(double(4)) # 8
 # Note linter does not allow, changes to regular defined function
