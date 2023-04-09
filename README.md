@@ -12,5 +12,3 @@
     *  Boolean
     *  Ternary
 <br/>
-
----
