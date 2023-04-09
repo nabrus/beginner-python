@@ -79,8 +79,8 @@ def is_adult2(age):
 
 
 print("What is your age?")
-# Or put "What is your age?" in the parenthesis, eliminating the first print statement
 answer = input()
+# Or put "What is your age?" in the parenthesis, eliminating the first print statement
 print(f"You are {answer}.")
 
 condition = False
