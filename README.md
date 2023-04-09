@@ -6,8 +6,10 @@
 *  Data Types
 *  Class Constructors
 *  Operators
-  *  Arithmetic
-  *  String Replication
-  *  Comparison
-  *  Boolean
-  *  Ternary
+    *  Arithmetic
+    *  String Replication
+    *  Comparison
+    *  Boolean
+    *  Ternary
+<br/>
+---
