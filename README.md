@@ -12,3 +12,14 @@
     *  Boolean
     *  Ternary
 <br/>
+### Functions
+* [Fundamentals](https://github.com/nabrus/beginner-python/blob/main/func.py)
+    * Defining/Calling
+    * Parameters, Multiple Parameters, Default Parameters
+    * Immutable/Mutable Objects
+    * `return` Statement`
+    * Variable Scope
+    * Nested Functions
+    * Closures
+*  Lambda
+*  Recursion
