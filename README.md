@@ -13,7 +13,7 @@
     *  Ternary
 <br/>
 ### Functions
-* [Fundamentals](https://github.com/nabrus/beginner-python/blob/main/func.py)
+*  [Fundamentals](https://github.com/nabrus/beginner-python/blob/main/func.py)
     * Defining/Calling
     * Parameters, Multiple Parameters, Default Parameters
     * Immutable/Mutable Objects
