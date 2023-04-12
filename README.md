@@ -18,7 +18,7 @@
     * Defining/Calling
     * Parameters, Multiple Parameters, Default Parameters
     * Immutable/Mutable Objects
-    * `return` Statement`
+    * `return` Statement
     * Variable Scope
     * Nested Functions
     * Closures
