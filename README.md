@@ -12,6 +12,9 @@
     *  Boolean
     *  Ternary
 
+### [Control Flow](https://github.com/nabrus/beginner-python/blob/main/ifElse.py)
+*  `if`, `else`, and `elif` statements
+
 ### Functions
 *  [Fundamentals](https://github.com/nabrus/beginner-python/blob/main/func.py)
     * Defining/Calling
