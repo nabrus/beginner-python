@@ -11,7 +11,6 @@
     *  Comparison
     *  Boolean
     *  Ternary
-<br/>
 
 ### Functions
 *  [Fundamentals](https://github.com/nabrus/beginner-python/blob/main/func.py)
@@ -24,3 +23,4 @@
     * Closures
 *  Lambda
 *  Recursion
+*  Polymorphism
