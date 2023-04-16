@@ -76,3 +76,10 @@
 ### Miscellaneous  
 *  [Enums: Creating Constants in Python](https://github.com/nabrus/beginner-python/blob/main/enums.py) 
 *  [Documenting Code With Docstrings](https://github.com/nabrus/beginner-python/blob/main/docstrings.py)
+*  [Accepting Arguments](https://github.com/nabrus/beginner-python/blob/main/cli_args.py)
+*  [Enums (enumeration)](https://github.com/nabrus/beginner-python/blob/main/enums.py)
+    * A class that represents a fixed set of values
+*  [Exception Errors]()
+    * Handling with `try`, `except` and `finally`
+    * Throw an error with `raise`
+    * `with` statement - Implicit Exception Handling
