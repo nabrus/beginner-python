@@ -3,7 +3,10 @@
 ### [Python Basics](https://github.com/nabrus/beginner-python/blob/main/vars.py)
 *  Declaring Variables
 *  Expressions vs. Statements
-*  Data Types
+*  Intro to Data Types
+    *  The `str()`, `int()`, and `float()` Functions
+    * `type()`
+    * `isinstance()`
 *  Class Constructors
 *  Operators
     *  Arithmetic
@@ -11,6 +14,8 @@
     *  Comparison
     *  Boolean
     *  Ternary
+    *  `input()`
+    *  Basic if...else statement
 
 ### [Control Flow](https://github.com/nabrus/beginner-python/blob/main/ifElse.py)
 *  `if`, `else`, and `elif` statements
@@ -26,6 +31,7 @@
     * Closures
 *  [Lambda](https://github.com/nabrus/beginner-python/blob/main/lamba.py)
 *  [Recursion](https://github.com/nabrus/beginner-python/blob/main/recursion.py)
+*  [Decorators](https://github.com/nabrus/beginner-python/blob/main/decorator.py)
 
 ### Data types in Python used to store collections of data
 *  [Lists](https://github.com/nabrus/beginner-python/blob/main/lists.py)
