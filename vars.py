@@ -5,7 +5,6 @@ age = 1006
 # Expressions (returns a value) and Statements (operations on a value)
 1 + 1  # expression
 print(name)  # statement
-
 # Indentation is important with Python. Statements use this as code blocks
 
 # Python built-in Data types - Integers (int), Floating-point numbers (float), Booleans (bool), Strings, Lists, Tuples, Dictionaries, Sets
