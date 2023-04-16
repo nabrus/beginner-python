@@ -38,3 +38,8 @@
 *  [Sets](https://github.com/nabrus/beginner-python/blob/main/sets.py)
 *  [Dictionaries](https://github.com/nabrus/beginner-python/blob/main/dictionary.py)
 *  [Tuples](https://github.com/nabrus/beginner-python/blob/main/tuples.py)
+
+### [Loops](https://github.com/nabrus/beginner-python/blob/main/loops.py)
+*  `while` and `for`
+    * `break` and `continue` statements
+    * `range()` and `enumerate()` functions
