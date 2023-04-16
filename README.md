@@ -33,7 +33,8 @@
         * Slicing
         * Adding items: `append()`, `extend()`, `+=`, `insert()`
         * Removing items: `remove()`, `pop()`
-        * Sorting: `sort()` and `sorted()` 
+        * Sorting: `sort()` and `sorted()`
+        * [List Compression](https://github.com/nabrus/beginner-python/blob/main/listCompression.py) 
 *  [Sets](https://github.com/nabrus/beginner-python/blob/main/sets.py)
 *  [Dictionaries](https://github.com/nabrus/beginner-python/blob/main/dictionary.py)
 *  [Tuples](https://github.com/nabrus/beginner-python/blob/main/tuples.py)
