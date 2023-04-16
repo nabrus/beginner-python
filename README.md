@@ -50,9 +50,19 @@
 *  [Dictionaries](https://github.com/nabrus/beginner-python/blob/main/dictionary.py)
 *  [Tuples](https://github.com/nabrus/beginner-python/blob/main/tuples.py)
 
+### [Annotations](https://github.com/nabrus/beginner-python/blob/main/annotations.py)
+*  Providing  metadata about the types of function arguments and return values, without actually enforcing those types
+
 ### Objects and Classes
 *  [Objects](https://github.com/nabrus/beginner-python/blob/main/objects.py)
     * Associated attributes and methods
 *  [Classes: Creating Objects](https://github.com/nabrus/beginner-python/blob/main/classes.py)
     * Constructor
     * Inheritance
+
+### [Built-In Functions](https://github.com/nabrus/beginner-python/blob/main/mapFilterReduce.py)
+*  `map()`
+*  `filter()`
+*  `reduce()`
+
+### [Documenting Code With Docstrings](https://github.com/nabrus/beginner-python/blob/main/docstrings.py)
