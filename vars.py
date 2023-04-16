@@ -8,9 +8,18 @@ print(name)  # statement
 
 # Indentation is important with Python. Statements use this as code blocks
 
-# Data types -
+# Python built-in Data types - Integers (int), Floating-point numbers (float), Booleans (bool), Strings, Lists, Tuples, Dictionaries, Sets
 
 print(type(age))  # <class 'int'>  type function used to check type
+
+# The str(), int(), and float() Functions
+print(str(-3.14))  # '-3.14`
+string = str(1.334)
+print(type(string))  # <class 'str'>
+print(int("4"))  # 4
+print(int(1.44))  # 1
+print(float("1.44"))  # 1.44
+print(float(12))  # 12.0
 
 age_a = 6
 print(isinstance(age_a, float))  # false
