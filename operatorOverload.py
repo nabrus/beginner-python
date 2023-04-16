@@ -1,4 +1,5 @@
 # Operator Overloading
+# In Python, operator overloading allows you to define how operators such as +, -, *, /, ==, !=, <, >, and others behave for instances of your custom classes.
 class Dog:
     # the dog class
     def __init__(self, name, age):
