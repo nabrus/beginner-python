@@ -70,5 +70,9 @@
 *  `from`...`import`
 *  Examples of the Python Standard Library
     * `math`, `re`, `json`...
+*  Installing Third Party Modules
+    * [`pip` Package Manager](https://github.com/nabrus/beginner-python/blob/main/pip.py)
 
-### [Documenting Code With Docstrings](https://github.com/nabrus/beginner-python/blob/main/docstrings.py)
+### Miscellanea 
+*  [Enums: Creating Constants in Python](https://github.com/nabrus/beginner-python/blob/main/enums.py) 
+*  [Documenting Code With Docstrings](https://github.com/nabrus/beginner-python/blob/main/docstrings.py)
