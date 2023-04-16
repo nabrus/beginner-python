@@ -14,7 +14,7 @@
     *  Comparison
     *  Boolean
     *  Ternary
-    *  `input()`
+    *  [`input()`](https://github.com/nabrus/beginner-python/blob/main/userInput.py)
     *  Basic if...else statement
 
 ### [Control Flow](https://github.com/nabrus/beginner-python/blob/main/ifElse.py)
