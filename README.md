@@ -73,6 +73,6 @@
 *  Installing Third Party Modules
     * [`pip` Package Manager](https://github.com/nabrus/beginner-python/blob/main/pip.py)
 
-### Miscellanea 
+### Miscellaneous  
 *  [Enums: Creating Constants in Python](https://github.com/nabrus/beginner-python/blob/main/enums.py) 
 *  [Documenting Code With Docstrings](https://github.com/nabrus/beginner-python/blob/main/docstrings.py)
