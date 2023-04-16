@@ -1,7 +1,7 @@
 # Python is an object oriented programming language.
 # Almost everything in Python is an object, with its properties and methods.
 
-# An int being an object, has access to all attributes and methods using `.` (dot) syntax.
+# An int being an object, has access to all attributes and methods using `.` (dot) notation.
 age = 6
 
 print(age.real)  # 6
