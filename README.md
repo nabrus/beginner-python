@@ -65,4 +65,10 @@
 *  `filter()`
 *  `reduce()`
 
+### [Modules: Basically Every Python File](https://github.com/nabrus/beginner-python/blob/main/modules.py)
+*  `import`
+*  `from`...`import`
+*  Examples of the Python Standard Library
+    * `math`, `re`, `json`...
+
 ### [Documenting Code With Docstrings](https://github.com/nabrus/beginner-python/blob/main/docstrings.py)
