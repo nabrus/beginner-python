@@ -50,7 +50,7 @@
 *  [Dictionaries](https://github.com/nabrus/beginner-python/blob/main/dictionary.py)
 *  [Tuples](https://github.com/nabrus/beginner-python/blob/main/tuples.py)
 
-## Objects and Classes
+### Objects and Classes
 *  [Objects](https://github.com/nabrus/beginner-python/blob/main/objects.py)
     * Associated attributes and methods
 *  [Classes: Creating Objects](https://github.com/nabrus/beginner-python/blob/main/classes.py)
