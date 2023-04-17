@@ -61,6 +61,8 @@
     * Inheritance
 
 ### [Built-In Functions](https://github.com/nabrus/beginner-python/blob/main/mapFilterReduce.py)
+*  `abs()`
+*  `round()`
 *  `map()`
 *  `filter()`
 *  `reduce()`

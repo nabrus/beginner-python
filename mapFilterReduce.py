@@ -1,9 +1,16 @@
-# Global functions - map(), filter(), reduce()
+# Python Built-In Functions
+from functools import reduce
+# See reduce() examples below
+
+# `abs()` Returns the absolute value of a number
+print(abs(-5.5))  # 5.5
+
+# `round()` Rounds numbers - optional 2nd parameter for decimal position
+print(round(5.5))  # 6
+print(round(5.49, 1))  # 5.5
 
 # The `map()` function executes a specified function for each item in an iterable. The item is sent to the function as a parameter.
 # Syntax: map(function, iterables)
-from functools import reduce
-# See reduce() examples below
 numbers = [1, 2, 3]
 
 
