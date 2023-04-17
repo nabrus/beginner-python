@@ -79,7 +79,7 @@
 *  [Accepting Arguments](https://github.com/nabrus/beginner-python/blob/main/cli_args.py)
 *  [Enums (enumeration)](https://github.com/nabrus/beginner-python/blob/main/enums.py)
     * A class that represents a fixed set of values
-*  [Exception Errors]()
+*  [Exception Errors](https://github.com/nabrus/beginner-python/blob/main/exceptions.py)
     * Handling with `try`, `except` and `finally`
     * Throw an error with `raise`
     * `with` statement - Implicit Exception Handling
