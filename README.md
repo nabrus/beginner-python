@@ -13,6 +13,7 @@
     *  String Replication
     *  Comparison
     *  Boolean
+        * Boolean operators - `and`, `or`, and `not`
     *  Ternary
     *  [`input()`](https://github.com/nabrus/beginner-python/blob/main/userInput.py)
     *  Basic if...else statement
